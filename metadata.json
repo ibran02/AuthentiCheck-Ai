@@ -1,0 +1,5 @@
+{
+  "name": "AuthentiCheck AI",
+  "description": "An AI-powered application to verify product authenticity using image analysis, barcode verification, and OCR. Upload an image of a product to determine if it is authentic or counterfeit, complete with a confidence score and detailed analysis.",
+  "requestFramePermissions": []
+}
